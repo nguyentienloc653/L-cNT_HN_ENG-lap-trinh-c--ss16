@@ -8,4 +8,5 @@ int main(){
 	printf("Cach 2:\n");
 	printf("a la %d\n", a);
 	printf("Dia chi a la %d\n", &a);
+	return 0;
 }
